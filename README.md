@@ -1,3 +1,3 @@
-# test_repositary
-## test_repositary_2
-### test_repositary_3
+# test_repository
+## test_repository_2
+### test_repository_3
